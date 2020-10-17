@@ -8,7 +8,7 @@
 >
 > Context API 기반으로 구현된 기술이 redux, react-router, styled-component 등이다.
 
-- Context API 의 용도?
+- Context API 의 용도는?
 
 > 전역적으로 데이터를 관리해야 할 때(데이터 하나가 여러 컴포넌트에서 사용될 때)
 >
