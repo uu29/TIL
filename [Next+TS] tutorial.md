@@ -16,7 +16,7 @@
 
   > tsconfig.json 만 만들고 아무것도 하지 않고 실행하면 다음과 같은 에러가 뜬다.
 
-  <img src="/Users/yuriahn/TIL/images/Screenshot_2020-10-18 13.04.40_pPO1We.png" style="zoom:50%;" />
+  <img src="https://github.com/uu29/TIL/blob/main/images/Screenshot_2020-10-18%2013.04.40_pPO1We.png?raw=true" style="zoom:50%;" />
 
   > TS를 설치하고 패키지 파일을 설정하라는 뜻이다.
 
@@ -28,7 +28,7 @@
 
 - 타입스크립트 설치 후 재실행(yarn dev) 하면 에러 없이 정상 실행 되는 것을 확인할 수 있다.
 
-  <img src="/Users/yuriahn/TIL/images/Screenshot_2020-10-18 13.11.11_5EiOcC.png" style="zoom:50%;" />
+  <img src="https://github.com/uu29/TIL/blob/main/images/Screenshot_2020-10-18%2013.11.11_5EiOcC.png?raw=true" style="zoom:50%;" />
 
 
 
