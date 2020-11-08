@@ -14,7 +14,7 @@
 
   6379 포트가 열리고 레디스가 실행된다.
 
-<img src="https://github.com/uu29/TIL/images/Screenshot_2020-11-03 08.57.54_03XDL3.png" alt="Screenshot_2020-11-03 08.57.54_03XDL3" style="zoom:50%;" />
+<img src="https://github.com/uu29/TIL/blob/main/images/Screenshot_2020-11-03%2008.57.54_03XDL3.png?raw=true" alt="Screenshot_2020-11-03 08.57.54_03XDL3" style="zoom:50%;" />
 
 - 테스트
 
@@ -27,7 +27,7 @@
   "hot-americano" ## 키에 해당하는 메모리
   ```
 
-  <img src="https://github.com/uu29/TIL/images/Screenshot_2020-11-03 09.02.33_q9wSDG.png" alt="Screenshot_2020-11-03 09.02.33_q9wSDG" style="zoom:50%;" />
+  <img src="https://github.com/uu29/TIL/blob/main/images/Screenshot_2020-11-03%2009.02.33_q9wSDG.png?raw=true" alt="Screenshot_2020-11-03 09.02.33_q9wSDG" style="zoom:50%;" />
 
 
 
