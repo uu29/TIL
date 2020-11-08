@@ -15,7 +15,7 @@ CRA 로 만들기 | `npx create-react-app ts-react-tutorial --typescript`
 
 - 요즘 추세는 tsx 컴포넌트를 선언할 때 화살표 함수보다 function 함수를 많이 쓴다.
 
-- 타입을 선언할 때는 `type` 을 써도 되고, `interfate` 를 써도 되지만 프로젝트의 일관성은 유지해야 한다.
+- 타입을 선언할 때는 `type` 을 써도 되고, `interface` 를 써도 되지만 프로젝트의 일관성은 유지해야 한다.
 
 - React.FC 는 다음과 같은 이유로 추천하지 않는다.
 
