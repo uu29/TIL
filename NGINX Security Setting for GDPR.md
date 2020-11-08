@@ -226,7 +226,7 @@ curl -I 로 찍어보면 다음과 같이 서버 버전이 노출되는지 알 �
 
 |                       on일 때(default)                       |                           off일 때                           |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![20200706_server_tokens_on](/Users/yuriahn/TIL/images/20200706_server_tokens_on.png) | ![20200706_server_tokens_off](/Users/yuriahn/TIL/images/20200706_server_tokens_off.png) |
+| ![20200706_server_tokens_on](https://github.com/uu29/TIL/blob/main/images/20200706_server_tokens_on.png?raw=true) | ![20200706_server_tokens_off](https://github.com/uu29/TIL/blob/main/images/20200706_server_tokens_off.png?raw=true) |
 
 <br>
 
