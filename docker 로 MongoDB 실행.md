@@ -26,11 +26,11 @@
 
 `/data` 경로에 도커가 접근 권한이 없다는 것이다.
 
-![Screenshot_2020-12-13 13.19.32_hxK3hQ](/Users/yuriahn/TIL/images/Screenshot_2020-12-13 13.19.32_hxK3hQ.png)
+![Screenshot_2020-12-13 13.19.32_hxK3hQ](https://github.com/uu29/TIL/blob/main/images/Screenshot_2020-12-13%2013.19.32_hxK3hQ.png?raw=true)
 
 로그를 찬찬히 뜯어보고 도커 앱 설정에서 `/data` 경로를 추가해줬다.
 
-![Screenshot_2020-12-13 13.28.45_k5R9Im](/Users/yuriahn/TIL/images/Screenshot_2020-12-13 13.28.45_k5R9Im.png)
+![Screenshot_2020-12-13 13.28.45_k5R9Im](https://github.com/uu29/TIL/blob/main/images/Screenshot_2020-12-13%2013.28.45_k5R9Im.png?raw=true)
 
 
 
@@ -42,17 +42,15 @@
 
 `env`를 치니 db 정보가 나온다.
 
-<img src="/Users/yuriahn/TIL/images/Screenshot_2020-12-13 13.33.26_ccRvoB.png" alt="Screenshot_2020-12-13 13.33.26_ccRvoB" style="zoom:50%;" />
+<img src="https://github.com/uu29/TIL/blob/main/images/Screenshot_2020-12-13%2013.33.26_ccRvoB.png?raw=true" alt="Screenshot_2020-12-13 13.33.26_ccRvoB" style="zoom:50%;" />
 
 ##### 4. MongoDB 접속
 
 `mongo` 
 
-<img src="/Users/yuriahn/TIL/images/Screenshot_2020-12-13 13.34.33_Y7a7Sr.png" alt="Screenshot_2020-12-13 13.34.33_Y7a7Sr" style="zoom:50%;" />
+<img src="https://github.com/uu29/TIL/blob/main/images/Screenshot_2020-12-13%2013.34.33_Y7a7Sr.png?raw=true" alt="Screenshot_2020-12-13 13.34.33_Y7a7Sr" style="zoom:50%;" />
 
 이렇게 `>` 가 나오면 성공적으로 접속된 것이다!
-
-
 
 
 
