@@ -28,7 +28,7 @@ Ios 에서 사용하려면 X-code 에서 `info.plist` 수정해야 한다. 처�
 
   마지막으로 우측 상단 재생 버튼을 눌러 다시 빌드해준다. (컴파일)
 
-![Screenshot_2021-01-05 22.54.25_BgFNEy](/Users/yuriahn/TIL/images/Screenshot_2021-01-05 22.54.25_BgFNEy.png)
+![Screenshot_2021-01-05 22.54.25_BgFNEy](https://github.com/uu29/TIL/blob/main/images/Screenshot_2021-01-05%2022.54.25_BgFNEy.png?raw=true)
 
 [Android]
 
@@ -44,16 +44,16 @@ project.ext.vectoricons = [
 apply from: "../../node_modules/react-native-vector-icons/fonts.gradle"
 ```
 
-![Screenshot_2021-01-05 20.39.17_zezgTl](/Users/yuriahn/TIL/images/Screenshot_2021-01-05 20.39.17_zezgTl.png)
+![Screenshot_2021-01-05 20.39.17_zezgTl](https://github.com/uu29/TIL/blob/main/images/Screenshot_2021-01-05%2020.39.17_zezgTl.png?raw=true)
 
 다음으로 `android/settings.gradle` 을 열고 아래 코드를 붙여넣는다.
 
 ```java
 include ':react-native-vector-icons'
-  project(':react-native-vector-icons').projectDir = new File(rootProject.projectDir, '../node_modules/react-		native-vector-icons/android')
+  project(':react-native-vector-icons').projectDir = new File(rootProject.projectDir, '../node_modules/react-		native-vector-icons/android')(/Users/yuriahn/TIL/images/Screenshot_2021-01-05 20.43.27_HZ3icy.png)
 ```
 
-![Screenshot_2021-01-05 20.43.27_HZ3icy](/Users/yuriahn/TIL/images/Screenshot_2021-01-05 20.43.27_HZ3icy.png)
+![](https://github.com/uu29/TIL/blob/main/images/Screenshot_2021-01-05%2020.43.27_HZ3icy.png?raw=true)
 
 그 다음에는 `android/app/bundle.gradle` 파일의 dependencies 블록 안에 아래 코드를 붙여넣는다.
 
@@ -90,7 +90,7 @@ export default Favorites;
 
 임포트 했을 때 아무 오류가 없어야 하고 아이콘이 이렇게 잘 뜨면 제대로 적용이 된 것이다!
 
-<img src="/Users/yuriahn/TIL/images/Screenshot_2021-01-05 23.01.53_ug19Jg.png" alt="Screenshot_2021-01-05 23.01.53_ug19Jg" style="zoom:33%;" />
+<img src="https://github.com/uu29/TIL/blob/main/images/Screenshot_2021-01-05%2023.01.53_ug19Jg.png?raw=true" alt="Screenshot_2021-01-05 23.01.53_ug19Jg" style="zoom:33%;" />
 
 
 
@@ -117,7 +117,7 @@ export default Favorites;
 
 주의할 점: 아이콘 name 이 틀려 아이콘을 찾지 못했을 경우 이렇게 물음표 아이콘이 나온다.
 
-<img src="/Users/yuriahn/TIL/images/Screenshot_2021-01-05 23.03.49_YT2ZFS.png" alt="Screenshot_2021-01-05 23.03.49_YT2ZFS" style="zoom:33%;" />
+<img src="https://github.com/uu29/TIL/blob/main/images/Screenshot_2021-01-05%2023.03.49_YT2ZFS.png?raw=true" alt="Screenshot_2021-01-05 23.03.49_YT2ZFS" style="zoom:33%;" />
 
 
 
@@ -207,7 +207,7 @@ export default App;
 
 그리고 의도한 대로 이런 멋진 UI를 완성할 수 있었다!
 
-<img src="/Users/yuriahn/TIL/images/Screenshot_2021-01-05 23.42.40_BRRK2U.png" alt="Screenshot_2021-01-05 23.42.40_BRRK2U" style="zoom:33%;" />
+<img src="https://github.com/uu29/TIL/blob/main/images/Screenshot_2021-01-05%2023.42.40_BRRK2U.png?raw=true" alt="Screenshot_2021-01-05 23.42.40_BRRK2U" style="zoom:33%;" />
 
 
 
