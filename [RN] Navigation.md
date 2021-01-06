@@ -173,7 +173,7 @@ export default AppStack;
 
 
 
-<img src="/Users/yuriahn/TIL/images/Screenshot_2021-01-06 20.10.57_ZNo1pI.png" alt="Screenshot_2021-01-06 20.10.57_ZNo1pI" style="zoom:33%;" />
+<img src="https://github.com/uu29/TIL/blob/main/images/Screenshot_2021-01-06%2020.10.57_ZNo1pI.png?raw=true" alt="Screenshot_2021-01-06 20.10.57_ZNo1pI" style="zoom:33%;" />
 
 위의 코드대로 하면 이런 화면이 나온다. 상당히 친근한 UI이다.
 
@@ -301,7 +301,7 @@ export default AppStack;
 
 이렇게 하면 의도한대로 화면이 잘 나온다. 상단 헤더부분은 스택네비게이터에서 온 것이고, 하단 탭메뉴는 탭네비게이터에서 온 것이다.
 
-<img src="/Users/yuriahn/TIL/images/Screenshot_2021-01-06 20.30.45_t8TKBK.png" alt="Screenshot_2021-01-06 20.30.45_t8TKBK" style="zoom:33%;" />
+<img src="https://github.com/uu29/TIL/blob/main/images/Screenshot_2021-01-06%2020.30.45_t8TKBK.png?raw=true" alt="Screenshot_2021-01-06 20.30.45_t8TKBK" style="zoom:33%;" />
 
 
 
@@ -328,7 +328,7 @@ export default AppStack;
 
 만들어진 ios, 안드로이드 화면은 각각 이렇다.
 
-<img src="/Users/yuriahn/TIL/images/Screenshot_2021-01-06 20.48.24_k5RDXj.png" alt="Screenshot_2021-01-06 20.48.24_k5RDXj" style="zoom: 33%;" />
+<img src="https://github.com/uu29/TIL/blob/main/images/Screenshot_2021-01-06%2020.48.24_k5RDXj.png?raw=true" alt="Screenshot_2021-01-06 20.48.24_k5RDXj" style="zoom: 33%;" />
 
 
 
