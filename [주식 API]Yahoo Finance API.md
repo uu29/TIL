@@ -22,15 +22,7 @@ https://rapidapi.com/apidojo/api/yahoo-finance1
 
 
 
-<img src="https://github.com/uu29/TIL/blob/main/images/KakaoTalk_Photo_2021-01-08-21-22-48.png?raw=true" style="zoom:33%;" />
-
-<img src="https://github.com/uu29/TIL/blob/main/images/KakaoTalk_Photo_2021-01-08-21-22-53.png?raw=true" style="zoom:33%;" />
-
-
-
-이렇게 우리에게 친숙한 인베스팅앱이나 webull 같은 주식앱에서 흔히 보이는 각 종목의 현재가, 상승률, 상승폭을 보여주는 api는 end_point 가 `get-historical-data` 이기 때문이다.
-
-
+#### - API 사용법
 
 **[결과값 예시]**
 
