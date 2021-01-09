@@ -132,7 +132,7 @@ YahooClient.interceptors.request.use(
 
 콘솔로 찍어보면 아래와 같이 헤더가 찍히는데, 정상적으로 커스텀헤더가 설정된 것을 알 수 있다.
 
-![custom-header-test-in-interceptor](/Users/yuriahn/TIL/images/custom-header-test-in-interceptor.png)
+![custom-header-test-in-interceptor](https://github.com/uu29/TIL/blob/main/images/custom-header-test-in-interceptor.png?raw=true)
 
 
 
