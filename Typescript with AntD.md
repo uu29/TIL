@@ -1,4 +1,4 @@
-# TypeScript 에서 Ant Design 사용해보기(1)
+# fTypeScript 에서 Ant Design 사용해보기(1)
 
 [목표] 타입스크립트 CRA 를 이용하여 Ant Design 레이아웃을 써본다.
 

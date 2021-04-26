@@ -50,7 +50,7 @@ apply from: "../../node_modules/react-native-vector-icons/fonts.gradle"
 
 ```java
 include ':react-native-vector-icons'
-  project(':react-native-vector-icons').projectDir = new File(rootProject.projectDir, '../node_modules/react-		native-vector-icons/android')(/Users/yuriahn/TIL/images/Screenshot_2021-01-05 20.43.27_HZ3icy.png)
+project(':react-native-vector-icons').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-vector-icons/android')
 ```
 
 ![](https://github.com/uu29/TIL/blob/main/images/Screenshot_2021-01-05%2020.43.27_HZ3icy.png?raw=true)
@@ -60,6 +60,8 @@ include ':react-native-vector-icons'
 ```java
 compile project(':react-native-vector-icons')
 ```
+
+<img src="https://i.imgur.com/5bshfzx.png" alt="bundle-gradle" style="zoom:50%;" />
 
 이렇게 하면 모든 준비는 끝났다.
 
