@@ -1,4 +1,4 @@
-# [Next + TS] 설치부터 세팅까지
+# [Next.js + TypeScript] 설치부터 세팅까지
 
 Status: Nextjs
 
